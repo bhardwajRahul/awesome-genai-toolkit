@@ -1,0 +1,36 @@
+# 📀 Retrieval Augmented Apps
+
+> Build smarter AI apps by grounding LLMs in your own data — from basic RAG chains to agentic, self-correcting retrieval systems.
+
+## 📂 Structure
+
+```
+retrieval-augmented-apps/
+├── basic-rag/            # Simple retrieval + generation pipelines
+├── agentic-rag/          # RAG with agent-based reasoning & tool use
+├── hybrid-search/        # Combining vector + keyword search
+├── vision-rag/           # RAG over images and multimodal data
+└── knowledge-graphs/     # Graph-based retrieval with citations
+```
+
+## 🔥 Why This Is Trending
+
+RAG remains the most practical way to build production AI apps — it eliminates hallucinations, keeps responses grounded in facts, and works with any LLM. New techniques like Agentic RAG, Corrective RAG (CRAG), and Knowledge Graph RAG are pushing the boundaries of what's possible.
+
+## 🚀 Getting Started
+
+```bash
+cd retrieval-augmented-apps/<project-name>
+pip install -r requirements.txt
+python main.py
+```
+
+## 📋 Projects
+
+| Project | Description | Difficulty |
+|---------|-------------|------------|
+| *Coming soon* | Contribute the first project! | — |
+
+## 🤝 Contributing
+
+Have a RAG project? We'd love to include it! See [CONTRIBUTING.md](../CONTRIBUTING.md) for guidelines.
