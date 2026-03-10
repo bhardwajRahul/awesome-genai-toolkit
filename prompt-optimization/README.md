@@ -5,7 +5,7 @@
 ## 📂 Structure
 
 ```
-prompt-and-token-optimization/
+prompt-optimization/
 ├── token-optimization/       # Reduce token usage without losing quality
 ├── context-compression/      # Fit more into the context window
 ├── prompt-caching/           # Cache and reuse expensive prompts
@@ -19,7 +19,7 @@ LLM API costs add up fast in production. Smart optimization can cut your bill by
 ## 🚀 Getting Started
 
 ```bash
-cd prompt-and-token-optimization/<project-name>
+cd prompt-optimization/<project-name>
 pip install -r requirements.txt
 python main.py
 ```

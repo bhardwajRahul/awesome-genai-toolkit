@@ -5,7 +5,7 @@
 ## 📂 Structure
 
 ```
-smart-agents/
+agent-skills/
 ├── starter/          # Simple single-agent apps (great for beginners)
 ├── advanced/         # Complex agents with tool use, planning & memory
 └── multi-agent/      # Teams of agents collaborating on tasks
@@ -18,7 +18,7 @@ AI Agents are the #1 trend in GenAI — moving beyond simple chat to autonomous 
 ## 🚀 Getting Started
 
 ```bash
-cd smart-agents/<project-name>
+cd agent-skills/<project-name>
 pip install -r requirements.txt
 python main.py
 ```

@@ -5,7 +5,7 @@
 ## 📂 Structure
 
 ```
-agent-framework-guides/
+agent-skills/frameworks/
 ├── google-adk/           # Google Agent Development Kit
 ├── openai-agents-sdk/    # OpenAI Agents SDK
 ├── crewai/               # CrewAI multi-agent framework
@@ -21,7 +21,7 @@ The agent framework landscape is evolving rapidly. Google ADK, OpenAI Agents SDK
 ## 🚀 Getting Started
 
 ```bash
-cd agent-framework-guides/<framework-name>
+cd agent-skills/frameworks/<framework-name>
 pip install -r requirements.txt
 python starter.py
 ```

@@ -5,7 +5,7 @@
 ## 📂 Structure
 
 ```
-talk-to-anything/
+ai-apps-collection/
 ├── talk-to-pdf/          # Chat with PDF documents
 ├── talk-to-youtube/      # Chat with YouTube video transcripts
 ├── talk-to-github/       # Chat with GitHub repositories
@@ -21,7 +21,7 @@ talk-to-anything/
 ## 🚀 Getting Started
 
 ```bash
-cd talk-to-anything/<project-name>
+cd ai-apps-collection/<project-name>
 pip install -r requirements.txt
 python main.py
 ```

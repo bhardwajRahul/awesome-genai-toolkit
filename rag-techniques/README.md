@@ -5,7 +5,7 @@
 ## 📂 Structure
 
 ```
-retrieval-augmented-apps/
+rag-techniques/
 ├── basic-rag/            # Simple retrieval + generation pipelines
 ├── agentic-rag/          # RAG with agent-based reasoning & tool use
 ├── hybrid-search/        # Combining vector + keyword search
@@ -20,7 +20,7 @@ RAG remains the most practical way to build production AI apps — it eliminates
 ## 🚀 Getting Started
 
 ```bash
-cd retrieval-augmented-apps/<project-name>
+cd rag-techniques/<project-name>
 pip install -r requirements.txt
 python main.py
 ```

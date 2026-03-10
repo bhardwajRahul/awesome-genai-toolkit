@@ -5,7 +5,7 @@
 ## 📂 Structure
 
 ```
-model-context-protocol/
+mcp-ai-agents/
 ├── mcp-servers/          # Custom MCP server implementations
 ├── mcp-powered-agents/   # Agents that leverage MCP for tool access
 └── integrations/         # MCP integrations with popular services
@@ -18,7 +18,7 @@ MCP is becoming the USB-C of AI — a universal standard for connecting LLMs to 
 ## 🚀 Getting Started
 
 ```bash
-cd model-context-protocol/<project-name>
+cd mcp-ai-agents/<project-name>
 pip install -r requirements.txt
 python main.py
 ```

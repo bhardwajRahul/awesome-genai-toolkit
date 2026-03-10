@@ -5,7 +5,7 @@
 ## 📂 Structure
 
 ```
-conversational-voice/
+voice-ai-agents/
 ├── voice-agents/         # End-to-end voice AI agents
 ├── speech-to-text/       # Whisper, Deepgram, AssemblyAI integrations
 ├── text-to-speech/       # ElevenLabs, OpenAI TTS, Bark, Coqui
@@ -19,7 +19,7 @@ Voice is the most natural interface — and it's finally good enough for product
 ## 🚀 Getting Started
 
 ```bash
-cd conversational-voice/<project-name>
+cd voice-ai-agents/<project-name>
 pip install -r requirements.txt
 python main.py
 ```

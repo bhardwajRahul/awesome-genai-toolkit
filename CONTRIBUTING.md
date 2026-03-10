@@ -70,7 +70,7 @@ First off, **thank you** for considering contributing! Every contribution helps 
 
 ### Tutorials
 - Place in the appropriate level folder (`beginner/`, `intermediate/`, `advanced/`)
-- Use numbered prefixes: `01-topic-name.md`
+- Use descriptive filenames: `topic-name.md`
 - Include prerequisites, step-by-step instructions, and expected outputs
 - Add code snippets that readers can copy-paste
 

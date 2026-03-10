@@ -5,7 +5,7 @@
 ## 📂 Structure
 
 ```
-llm-eval-and-testing/
+llm-benchmarks/
 ├── benchmarks/           # Standard benchmarks and custom eval suites
 ├── red-teaming/          # Adversarial testing and jailbreak detection
 ├── guardrails/           # Safety filters, content moderation, output validation
@@ -20,7 +20,7 @@ As LLM apps move to production, testing is no longer optional. Companies need to
 ## 🚀 Getting Started
 
 ```bash
-cd llm-eval-and-testing/<project-name>
+cd llm-benchmarks/<project-name>
 pip install -r requirements.txt
 python main.py
 ```

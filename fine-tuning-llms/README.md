@@ -5,7 +5,7 @@
 ## 📂 Structure
 
 ```
-model-fine-tuning/
+fine-tuning-llms/
 ├── lora/                 # Low-Rank Adaptation fine-tuning
 ├── qlora/                # Quantized LoRA for consumer GPUs
 ├── full-fine-tune/       # Full parameter fine-tuning
@@ -20,7 +20,7 @@ Fine-tuning is how you make a generic LLM into YOUR LLM. With LoRA and QLoRA, yo
 ## 🚀 Getting Started
 
 ```bash
-cd model-fine-tuning/<project-name>
+cd fine-tuning-llms/<project-name>
 pip install -r requirements.txt
 python train.py
 ```

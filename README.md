@@ -1,99 +1,196 @@
 <div align="center">
 
-  <h1>🚀 Awesome GenAI Toolkit</h1>
-  <p><strong>Agents • RAG • MCP • Testing • Voice • Fine-Tuning — Everything GenAI in One Place</strong></p>
+# 🧠 Awesome GenAI Toolkit
 
-  <p>A curated, hands-on collection of trending Generative AI topics with ready-to-use projects, tutorials, and tools. Built for developers who want to learn, build, and ship GenAI products.</p>
+### The most comprehensive, community-driven collection of Generative AI resources
 
-  ![Stars](https://img.shields.io/github/stars/shubh-vedi/awesome-genai-toolkit?style=for-the-badge)
-  ![Forks](https://img.shields.io/github/forks/shubh-vedi/awesome-genai-toolkit?style=for-the-badge)
-  ![Contributors](https://img.shields.io/github/contributors/shubh-vedi/awesome-genai-toolkit?style=for-the-badge)
-  ![Last Commit](https://img.shields.io/github/last-commit/shubh-vedi/awesome-genai-toolkit?style=for-the-badge)
-  ![License](https://img.shields.io/github/license/shubh-vedi/awesome-genai-toolkit?style=for-the-badge)
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+![Stars](https://img.shields.io/github/stars/shubh-vedi/awesome-genai-toolkit?style=social)
+![Forks](https://img.shields.io/github/forks/shubh-vedi/awesome-genai-toolkit?style=social)
+![Contributors](https://img.shields.io/github/contributors/shubh-vedi/awesome-genai-toolkit)
+![Last Commit](https://img.shields.io/github/last-commit/shubh-vedi/awesome-genai-toolkit)
+![License](https://img.shields.io/github/license/shubh-vedi/awesome-genai-toolkit)
+
+**Open-Source Libraries** · **AI Apps** · **LLM Benchmarks** · **Fine-Tuning** · **RAG** · **Agents** · **Voice AI** · **MCP**
+
+[🌟 Star this repo](../../stargazers) · [🍴 Fork it](../../fork) · [🤝 Contribute](#-contributing) · [📢 Share on Twitter](https://twitter.com/intent/tweet?text=🔥%20Check%20out%20this%20awesome%20GenAI%20toolkit%20-%20the%20most%20comprehensive%20collection%20of%20AI%20resources!&url=https://github.com/shubh-vedi/awesome-genai-toolkit)
+
+---
+
+*If this repo helps you, please consider giving it a ⭐ — it helps others discover it!*
 
 </div>
 
----
+## 📚 Table of Contents
 
-## 📑 Table of Contents
-
-- [🔥 Trending Categories](#-trending-categories)
+- [🔧 Open-Source Libraries](#-open-source-libraries)
+- [📱 AI Apps Collection](#-ai-apps-collection)
+- [📊 LLM Benchmarks](#-llm-benchmarks)
+- [🎯 Fine-Tuning LLMs](#-fine-tuning-llms)
+- [🔍 RAG Techniques](#-rag-techniques)
+- [🤖 Agent Skills](#-agent-skills)
+- [🎙️ Voice AI Agents](#-voice-ai-agents)
+- [🔌 MCP AI Agents](#-mcp-ai-agents)
+- [⚡ Prompt Optimization](#-prompt-optimization)
 - [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
 
 ---
 
-## 🔥 Trending Categories
+## 🔧 Open-Source Libraries
 
-Deep-dive folders covering the hottest topics in GenAI right now. Each folder contains a detailed README, sub-folder structure, and placeholder project tables ready for contributions.
+> Curated list of the best open-source tools powering the GenAI ecosystem
 
-| Category | Description |
-|----------|-------------|
-| [🤖 Smart Agents](smart-agents/) | Autonomous AI agents — starter, advanced & multi-agent |
-| [📀 Retrieval Augmented Apps](retrieval-augmented-apps/) | RAG patterns — basic, agentic, hybrid, vision & graph |
-| [🔌 Model Context Protocol](model-context-protocol/) | MCP servers, integrations & MCP-powered agents |
-| [🧪 LLM Eval & Testing](llm-eval-and-testing/) | Benchmarks, red-teaming, guardrails & quality checks |
-| [📦 OSS GenAI Tools](oss-genai-tools/) | Curated open-source libraries, SDKs & frameworks |
-| [🗣️ Conversational Voice](conversational-voice/) | Voice agents, STT/TTS pipelines & real-time voice |
-| [⚡ Model Fine-Tuning](model-fine-tuning/) | LoRA, QLoRA, RLHF & full fine-tuning recipes |
-| [🎯 Prompt & Token Optimization](prompt-and-token-optimization/) | Cost reduction, context compression & caching |
-| [🧑‍🏫 Agent Framework Guides](agent-framework-guides/) | Crash courses for ADK, OpenAI SDK, CrewAI, LangGraph |
-| [💬 Talk to Anything](talk-to-anything/) | Chat with PDFs, YouTube, GitHub, Gmail & databases |
+| Category | Top Tools | Stars |
+|----------|-----------|-------|
+| LLM Frameworks | LangChain, LlamaIndex, Haystack | 90K+ |
+| Agent Frameworks | CrewAI, AutoGen, Agno, LangGraph | 50K+ |
+| Vector Databases | ChromaDB, Pinecone, Weaviate, Milvus | 40K+ |
+| Inference Engines | vLLM, Ollama, llama.cpp, TGI | 80K+ |
+
+👉 **[Explore All Libraries →](./open-source-libraries/)**
 
 ---
 
-## 🗂️ Repository Structure
+## 📱 AI Apps Collection
 
-```
-awesome-genai-toolkit/
-├── README.md
-├── CONTRIBUTING.md
-├── LICENSE
-│
-├── smart-agents/                      # 🤖 AI Agents (starter → advanced → multi)
-├── retrieval-augmented-apps/          # 📀 RAG patterns & pipelines
-├── model-context-protocol/            # 🔌 MCP servers & integrations
-├── llm-eval-and-testing/              # 🧪 Eval, benchmarks & guardrails
-├── oss-genai-tools/                   # 📦 Open-source GenAI libraries
-├── conversational-voice/              # 🗣️ Voice AI & speech pipelines
-├── model-fine-tuning/                 # ⚡ LoRA, QLoRA, RLHF recipes
-├── prompt-and-token-optimization/     # 🎯 Cost & token optimization
-├── agent-framework-guides/            # 🧑‍🏫 Framework crash courses
-└── talk-to-anything/                  # 💬 Chat-with-X apps
-```
+> Ready-to-use GenAI applications and boilerplates
+
+| App Type | Description | Tech Stack |
+|----------|-------------|------------|
+| Chat with Data | PDFs, YouTube, GitHub, CSV | Streamlit, FastAPI |
+| Personal Assistant | Calendar, Email, Task automation | LangChain, Vercel |
+| Vision Apps | Image analysis, OCR, Object detection | GPT-4o, Claude 3.5 |
+
+👉 **[Explore AI Apps →](./ai-apps-collection/)**
+
+---
+
+## 📊 LLM Benchmarks
+
+> Testing, evaluation, and quality assurance for LLMs
+
+| Focus Area | Tools & Frameworks | Purpose |
+|------------|--------------------|---------|
+| Performance | LMSYS Chatbot Arena, HELM | Accuracy & Speed |
+| Evaluation | Ragas, DeepEval, Arize Phoenix | RAG & Agent Eval |
+| Guardrails | NeMo Guardrails, Guardrails AI | Security & Safety |
+
+👉 **[Explore Benchmarks →](./llm-benchmarks/)**
+
+---
+
+## 🎯 Fine-Tuning LLMs
+
+> Recipes and tools for training and optimizing models
+
+| Technique | Popular Libraries | Use Case |
+|-----------|------------------|----------|
+| Parameter Efficient | PEFT, BitsAndBytes | LoRA, QLoRA |
+| Full Training | Axolotl, Unsloth | Domain Adaptation |
+| Alignment | TRL, Alignment Handbook | SFT, DPO, RLHF |
+
+👉 **[Explore Fine-Tuning →](./fine-tuning-llms/)**
+
+---
+
+## 🔍 RAG Techniques
+
+> Advanced patterns for Retrieval Augmented Generation
+
+| Pattern | Description | Complexity |
+|---------|-------------|------------|
+| Naive RAG | Basic retrieve-then-generate | Beginner |
+| Agentic RAG | Self-correcting and multi-hop | Advanced |
+| HyDE/Parent | Advanced retrieval strategies | Intermediate |
+
+👉 **[Explore RAG Patterns →](./rag-techniques/)**
+
+---
+
+## 🤖 Agent Skills
+
+> Building autonomous and reliable AI agents
+
+| Framework | Best For | Key Feature |
+|-----------|----------|-------------|
+| LangGraph | State management | Cycles & persistence |
+| CrewAI | Multi-agent systems | Role-based collaboration |
+| AutoGen | Task automation | Conversable agents |
+
+👉 **[Explore Agent Skills →](./agent-skills/)**
+
+---
+
+## 🎙️ Voice AI Agents
+
+> Real-time voice interaction and speech processing
+
+| Component | Top Tools | Capabilities |
+|-----------|-----------|--------------|
+| STT/TTS | Whisper, ElevenLabs, Deepgram | Transcribe & Speak |
+| Voice Pipelines | Vapi, Retell, Livekit | Low Latency |
+| Local Voice | Piper, Sherpa-ONNX | Edge AI |
+
+👉 **[Explore Voice AI →](./voice-ai-agents/)**
+
+---
+
+## 🔌 MCP AI Agents
+
+> Model Context Protocol (MCP) integrations and servers
+
+| Category | Examples | Purpose |
+|----------|----------|---------|
+| Servers | SQLite, Postgres, Slack, GitHub | Data Access |
+| Transports | Stdio, SSE, HTTP | Communication |
+| Clients | Claude Desktop, Cursor | Interface |
+
+👉 **[Explore MCP Agents →](./mcp-ai-agents/)**
+
+---
+
+## ⚡ Prompt Optimization
+
+> Reducing costs and improving response quality
+
+| Method | Description | Tooling |
+|--------|-------------|---------|
+| Compression | Reducing token counts | LLMLingua |
+| Caching | Reusing results | GPTCache |
+| Optimization | Iterative prompt tuning | DSPy |
+
+👉 **[Explore Optimization →](./prompt-optimization/)**
 
 ---
 
 ## 🤝 Contributing
 
-We love contributions! Whether it's a new project, tutorial, or library review.
+We love contributions! This repo thrives because of the community.
 
-👉 **[Read the Contributing Guide →](CONTRIBUTING.md)**
+**Quick ways to contribute:**
+- 🌟 Star this repo
+- 📝 Add a resource via [Pull Request](../../pulls)
+- 🐛 Report broken links via [Issues](../../issues)
+- 💡 Suggest new categories
+- 📢 Share on social media
 
-Look for issues tagged with `good first issue` to get started.
+See our [Contributing Guide](CONTRIBUTING.md) for details.
 
----
+## 🗺️ Roadmap
 
-## ⭐ Star History
-
-If you find this useful, **give it a star!** It helps more developers discover this resource.
-
-[![Star History Chart](https://api.star-history.com/svg?repos=shubh-vedi/awesome-genai-toolkit&type=Date)](https://star-history.com/#shubh-vedi/awesome-genai-toolkit&Date)
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+- [x] Initial categories launched
+- [ ] Add runnable Colab notebooks for each category
+- [ ] Community voting on best tools per category
+- [ ] Monthly "What's New in GenAI" digest
+- [ ] Multilingual support (Hindi, Mandarin, Spanish)
+- [ ] Interactive web version of the toolkit
 
 ---
 
 <div align="center">
 
-  **⭐ If you find this useful, give it a star! ⭐**
+**Made with ❤️ by the GenAI community**
 
-  Built with ❤️ for the GenAI community
-
-  [Report Bug](https://github.com/shubh-vedi/awesome-genai-toolkit/issues) · [Request Feature](https://github.com/shubh-vedi/awesome-genai-toolkit/issues) · [Contribute](CONTRIBUTING.md)
+If this helped you, [give us a star ⭐](../../stargazers)
 
 </div>

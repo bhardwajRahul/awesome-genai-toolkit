@@ -5,7 +5,7 @@
 ## 📂 Structure
 
 ```
-oss-genai-tools/
+open-source-libraries/
 ├── agent-frameworks/     # CrewAI, LangGraph, AutoGen, Swarm, etc.
 ├── llm-sdks/             # OpenAI SDK, Anthropic SDK, Google GenAI, etc.
 ├── vector-databases/     # ChromaDB, Pinecone, Weaviate, Qdrant, etc.
