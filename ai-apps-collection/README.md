@@ -6,6 +6,11 @@
 
 ```
 ai-apps-collection/
+├── agno-apps/            # Apps built using the Agno Framework
+│   ├── react-agno-ai-app
+│   └── ai-storyboard-generator
+├── rag-apps/             # Advanced RAG applications
+│   └── omnirag-streamlit
 ├── talk-to-pdf/          # Chat with PDF documents
 ├── talk-to-youtube/      # Chat with YouTube video transcripts
 ├── talk-to-github/       # Chat with GitHub repositories
@@ -28,9 +33,11 @@ python main.py
 
 ## 📋 Projects
 
-| Project | Description | Difficulty |
+| Project | Description | Tech Stack |
 |---------|-------------|------------|
-| *Coming soon* | Contribute the first project! | — |
+| [react-agno-ai-app](./agno-apps/react-agno-ai-app) | A React-based AI agent app using Agno. | React, Agno |
+| [ai-storyboard-generator](./agno-apps/ai-storyboard-generator) | AI-powered storyboard generator for visual storytelling. | Agno, Python |
+| [omnirag-streamlit](./rag-apps/omnirag-streamlit) | Multimodal RAG application built with Streamlit and Gemini. | Streamlit, Gemini, RAG |
 
 ## 🤝 Contributing
 

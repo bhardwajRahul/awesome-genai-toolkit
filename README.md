@@ -57,6 +57,8 @@
 
 | App Type | Description | Tech Stack |
 |----------|-------------|------------|
+| Agno Apps | AI Storyboard & Agentic React apps | Agno, React, Python |
+| Multimodal RAG | Enterprise-grade RAG applications | Gemini, Streamlit |
 | Chat with Data | PDFs, YouTube, GitHub, CSV | Streamlit, FastAPI |
 | Personal Assistant | Calendar, Email, Task automation | LangChain, Vercel |
 | Vision Apps | Image analysis, OCR, Object detection | GPT-4o, Claude 3.5 |
