@@ -1,0 +1,7 @@
+agno
+openai
+fastapi
+uvicorn[standard]
+python-dotenv
+tavily-python
+yfinance
