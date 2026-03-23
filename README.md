@@ -4,17 +4,10 @@
 
 <img src="./assets/banner.png" alt="Awesome GenAI Toolkit - 1000+ Curated Generative AI Resources, Tools, Frameworks and Apps for Developers" width="100%" />
 
-<br/>
-<br/>
+# 🚀 Awesome GenAI Toolkit
+### The Most Comprehensive Open-Source Collection of Generative AI Resources
 
-<h1>🚀 Awesome GenAI Toolkit</h1>
-<h3>The Most Comprehensive Open-Source Collection of Generative AI Resources</h3>
-
-<p>
-  <strong>1000+ curated tools, frameworks, apps, and tutorials for building with LLMs, AI Agents, RAG, and more</strong>
-</p>
-
-<br/>
+**1000+ curated tools, frameworks, apps, and tutorials for building with LLMs, AI Agents, RAG, and more**
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 [![GitHub Stars](https://img.shields.io/github/stars/shubh-vedi/awesome-genai-toolkit?style=for-the-badge&logo=github&color=f4c542&labelColor=1a1a2e)](https://github.com/shubh-vedi/awesome-genai-toolkit/stargazers)
@@ -23,18 +16,11 @@
 [![Last Commit](https://img.shields.io/github/last-commit/shubh-vedi/awesome-genai-toolkit?style=for-the-badge&logo=github&color=ec4899&labelColor=1a1a2e)](https://github.com/shubh-vedi/awesome-genai-toolkit/commits/main)
 [![License: MIT](https://img.shields.io/github/license/shubh-vedi/awesome-genai-toolkit?style=for-the-badge&logo=opensourceinitiative&color=22d3ee&labelColor=1a1a2e)](./LICENSE)
 
-<br/>
-
 **LLM Frameworks** · **AI Agent Frameworks** · **RAG Patterns** · **Fine-Tuning Guides** · **Voice AI** · **MCP Servers** · **Ready-to-Use AI Apps** · **Prompt Optimization**
-
-<br/>
 
 <a href="https://github.com/shubh-vedi/awesome-genai-toolkit/stargazers"><img src="https://img.shields.io/badge/⭐_Star_This_Repo-It_Helps!-f4c542?style=for-the-badge&labelColor=1a1a2e" alt="Star this repo" /></a>
 <a href="https://github.com/shubh-vedi/awesome-genai-toolkit/fork"><img src="https://img.shields.io/badge/🔱_Fork_It-Start_Contributing-6366f1?style=for-the-badge&labelColor=1a1a2e" alt="Fork this repo" /></a>
 <a href="https://twitter.com/intent/tweet?text=🔥%20Just%20found%20Awesome%20GenAI%20Toolkit%20—%20the%20most%20comprehensive%20open-source%20collection%20of%201000%2B%20Generative%20AI%20resources%20for%20developers!%0A%0ALangChain%20•%20CrewAI%20•%20RAG%20•%20AI%20Agents%20•%20Voice%20AI%20•%20MCP%20%26%20more%0A%0A⭐%20Star%20it%20on%20GitHub%3A&url=https://github.com/shubh-vedi/awesome-genai-toolkit&hashtags=GenAI,LLM,AI,OpenSource,MachineLearning"><img src="https://img.shields.io/badge/𝕏_Share-Spread_the_Word-000000?style=for-the-badge&logo=x&labelColor=1a1a2e" alt="Share on X/Twitter" /></a>
-
-<br/>
-<br/>
 
 </div>
 
