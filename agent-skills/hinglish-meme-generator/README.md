@@ -80,8 +80,7 @@ AI: BHAI LIGHT MODE USE KARTA HAI? SEEDHA SURYA KO
 ```
 hinglish-meme-generator/
 ├── SKILL.md              # Skill metadata + LLM instructions
-├── scripts/
-│   └── index.html        # JS skill — renders meme cards in webview
+├── index.html            # JS skill — renders meme cards in webview
 └── README.md
 ```
 
@@ -93,7 +92,7 @@ This is a **JS-based Agent Skill** for Google AI Edge Gallery:
 
 1. **SKILL.md** tells the on-device LLM (Gemma 4) how to translate English → Hinglish and which meme style to pick
 2. The LLM calls `run_js` with the translation data
-3. **scripts/index.html** receives the data via `ai_edge_gallery_get_result()`, renders a styled HTML meme card in a hidden webview
+3. **index.html** receives the data via `ai_edge_gallery_get_result()`, renders a styled HTML meme card in a hidden webview
 4. The card is displayed to the user — ready to screenshot and share!
 
 Everything runs **100% on-device** — no internet, no API calls, complete privacy.
