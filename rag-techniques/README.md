@@ -29,7 +29,8 @@ python main.py
 
 | Project | Description | Difficulty |
 |---------|-------------|------------|
-| [Build RAG from Scratch](./build_rag_from_scratch.ipynb) | Chat with your PDF using OpenAI + ChromaDB — no frameworks, ~50 lines of core logic | Beginner |
+| [Build RAG from Scratch](./basic-rag/build_rag_from_scratch.ipynb) | Chat with your PDF using OpenAI + ChromaDB — no frameworks, ~50 lines of core logic | Beginner |
+| [PageIndex RAG Techniques](./basic-rag/pageindex_rag_techniques.ipynb) | 10 page-aware retrieval techniques from basic page indexing to agentic multi-hop QA | Beginner → Advanced |
 | *Agentic RAG* | Self-correcting retrieval with LangGraph | Coming soon |
 | *Hybrid Search* | Combine vector + keyword search (BM25) | Coming soon |
 | *RAG Evaluation with Ragas* | Measure faithfulness, relevancy, and recall | Coming soon |
