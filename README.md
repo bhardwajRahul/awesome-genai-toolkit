@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="./assets/banner.png" alt="Awesome GenAI Toolkit - The Most Comprehensive Open-Source Collection of Generative AI Resources, Tools, Frameworks, Notebooks, and Apps for Developers and AI Engineers" width="900px" />
+<img src="./assets/new_banner.jpg" alt="Awesome GenAI Toolkit - The Most Comprehensive Open-Source Collection of Generative AI Resources, Tools, Frameworks, Notebooks, and Apps for Developers and AI Engineers" width="900px" />
 
 # Awesome GenAI Toolkit
 
