@@ -16,6 +16,7 @@ ai-apps-collection/
 ├── talk-to-github/       # Chat with GitHub repositories
 ├── talk-to-email/        # Chat with Gmail / email archives
 ├── talk-to-docs/         # Chat with Google Docs, Notion, etc.
+├── asha-forever/        # AI-powered cinematic tribute & playlist generator
 └── talk-to-database/     # Natural language queries over SQL/NoSQL
 ```
 
@@ -38,6 +39,7 @@ python main.py
 | [react-agno-ai-app](./agno-apps/react-agno-ai-app) | A React-based AI agent app using Agno. | React, Agno |
 | [ai-storyboard-generator](./agno-apps/ai-storyboard-generator) | AI-powered storyboard generator for visual storytelling. | Agno, Python |
 | [omnirag-streamlit](./rag-apps/omnirag-streamlit) | Multimodal RAG application built with Streamlit and Gemini. | Streamlit, Gemini, RAG |
+| [asha-forever](./asha-forever) | AI-powered cinematic tribute app and playlist generator for legendary singer Asha Bhosle. | React, Gemini AI, Tailwind v4 |
 
 ## 🤝 Contributing
 

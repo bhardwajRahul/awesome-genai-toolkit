@@ -136,11 +136,19 @@ Includes comparison tables, setup guides, and recommendations for choosing the r
 | **Agno Apps** | AI Storyboard Generator, Agentic React Apps | Agno, React, Python |
 | **Multimodal RAG Apps** | Enterprise RAG with text, image, and PDF support | Gemini, Streamlit |
 | **Chat with Data** | Talk to PDFs, YouTube videos, GitHub repos, CSVs | Streamlit, FastAPI |
+| **Creative & Tribute Apps** | AI Cinematic Tribute & Playlist Generator (Asha Forever) | React, Gemini AI, Tailwind v4 |
 | **Vision Apps** | Image analysis, OCR, object detection pipelines | GPT-4o, Claude |
 
 Every app includes source code, deployment instructions, and architecture diagrams.
 
 **[Browse AI Apps Collection ->](./ai-apps-collection/)**
+
+#### 🎭 Featured Project: Asha Forever
+<div align="center">
+  <img src="./assets/asha_forever_banner.png" alt="Asha Forever - AI Powered Tribute App" width="800px" />
+  <p><i>A cinematic, AI-powered tribute to the legend Asha Bhosle. Generates curated playlists based on mood using Gemini AI with a premium vintage aesthetic.</i></p>
+  <a href="./ai-apps-collection/asha-forever/"><b>Explore the App -></b></a>
+</div>
 
 ---
 
