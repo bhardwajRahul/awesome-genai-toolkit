@@ -134,6 +134,7 @@ Includes comparison tables, setup guides, and recommendations for choosing the r
 | App Type | Description | Tech Stack |
 |:---------|:-----------|:----------|
 | **Agno Apps** | AI Storyboard Generator, Agentic React Apps | Agno, React, Python |
+| **Reasoning RAG Apps** | Vectorless reasoning-based PDF analysis (DocDetective) | PageIndex, Gemini, Streamlit |
 | **Multimodal RAG Apps** | Enterprise RAG with text, image, and PDF support | Gemini, Streamlit |
 | **Chat with Data** | Talk to PDFs, YouTube videos, GitHub repos, CSVs | Streamlit, FastAPI |
 | **Creative & Tribute Apps** | AI Cinematic Tribute & Playlist Generator (Asha Forever) | React, Gemini AI, Tailwind v4 |

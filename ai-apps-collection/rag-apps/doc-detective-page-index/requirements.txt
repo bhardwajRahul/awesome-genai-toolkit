@@ -1,0 +1,6 @@
+google-generativeai
+pageindex==0.2.8
+pandas
+pymupdf
+python-dotenv
+streamlit
