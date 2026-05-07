@@ -31,6 +31,7 @@ python main.py
 |---------|-------------|------------|
 | [Build RAG from Scratch](./basic-rag/build_rag_from_scratch.ipynb) | Chat with your PDF using OpenAI + ChromaDB — no frameworks, ~50 lines of core logic | Beginner |
 | [PageIndex RAG Techniques](./basic-rag/pageindex_rag_techniques.ipynb) | 10 page-aware retrieval techniques from basic page indexing to agentic multi-hop QA | Beginner → Advanced |
+| [Multimodal RAG with Gemini File Search](./vision-rag/multimodal_rag_gemini_file_search.ipynb) | Fully managed text + image RAG using `gemini-embedding-2`, with citations, metadata filtering, and structured output | Intermediate |
 | *Agentic RAG* | Self-correcting retrieval with LangGraph | Coming soon |
 | *Hybrid Search* | Combine vector + keyword search (BM25) | Coming soon |
 | *RAG Evaluation with Ragas* | Measure faithfulness, relevancy, and recall | Coming soon |

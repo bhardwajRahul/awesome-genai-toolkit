@@ -6,7 +6,8 @@
 
 | Notebook | Description | Difficulty |
 |----------|-------------|------------|
-| *Coming Soon* | Multimodal RAG with images, charts, and PDFs | Intermediate → Advanced |
+| [Multimodal RAG with Gemini File Search](./multimodal_rag_gemini_file_search.ipynb) | Fully managed RAG over text + images with `gemini-embedding-2`, citations, metadata filters, and structured output | Intermediate |
+| *Coming Soon* | ColPali-based vision retrieval | Advanced |
 
 ## 🧠 What You'll Learn
 
